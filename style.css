@@ -12,8 +12,8 @@ hr{
 }
 
 #logo{
-    height: 100%;
-    margin-left: 5%;
+    height: 1em;
+    margin: .25em 0 auto 5%;
 }
 
 .indent{
