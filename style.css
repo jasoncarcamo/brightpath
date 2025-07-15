@@ -89,6 +89,7 @@ h2{
 
     #section-header img{
         width: 100%;
+        margin: auto 0 auto 0;
     }
 
     #section-header h1{
@@ -230,7 +231,6 @@ h2{
         width: 59%;
         height: 100%;
         float: left;
-        margin: 7% 0 auto 0;
     }
 
     #section-header div{
